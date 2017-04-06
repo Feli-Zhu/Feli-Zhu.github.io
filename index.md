@@ -1,7 +1,6 @@
-## Welcome to GitHub Pages
+## 欢迎来到飞哥的博客空间
 
-You can use the [editor on GitHub](https://github.com/Feli-Zhu/Feli-Zhu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
+自我介绍一下：我是飞哥，一名地道程序员，但好多人说我不像，不知道程序员是不是应当脸上有个icon， 然后我脸上缺少了，搞java的。其实我也不是什么大神，就是会写几行代码而已。
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
